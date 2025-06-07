@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Calculator
+GenericName=Calculator
+Comment=A beautiful cross-platform calculator with modern UI
+Comment[es]=Una hermosa calculadora multiplataforma con interfaz moderna
+Comment[fr]=Une belle calculatrice multiplateforme avec une interface moderne
+Comment[de]=Ein schöner plattformübergreifender Taschenrechner mit moderner Benutzeroberfläche
+Keywords=calculator;math;arithmetic;compute;
+Exec=Calculator
+Icon=Calculator
+Terminal=false
+StartupNotify=true
+Categories=Utility;Calculator;
+MimeType=text/x-calculator;
+StartupWMClass=Calculator
+
+# Additional metadata
+X-Desktop-File-Install-Version=0.26
+X-GNOME-UsesNotifications=false
