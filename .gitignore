@@ -1,7 +1,10 @@
+.DS_Store
+**/.DS_Store
+
 build/
-.clang_tidy
+.cache/
+
 compile_commands.json
 **/compile_commands.json
-.cache
-.DS_Store
-**/DS_Store
+
+.clang-tidy
